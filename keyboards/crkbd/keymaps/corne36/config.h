@@ -29,7 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ONESHOT_TIMEOUT 2500
 #define QUICK_TAP_TERM 0
 
-#define AUTO_SHIFT_TIMEOUT 150
-#define AUTO_SHIFT_REPEAT 
+#define AUTO_SHIFT_TIMEOUT 180
+#define AUTO_SHIFT_REPEAT
 
 #define SPLIT_WPM_ENABLE
