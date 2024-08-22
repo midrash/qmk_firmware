@@ -1,0 +1,7 @@
+AUTO_SHIFT_ENABLE = yes
+
+OLED_ENABLE = yes
+# CONSOLE_ENABLE = yes
+# EXTRAKEY_ENABLE = yes
+
+WPM_ENABLE = yes
